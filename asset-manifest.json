@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/e-commerce-app/static/css/main.e415bd21.css",
+    "main.js": "/e-commerce-app/static/js/main.f013c9bd.js",
+    "static/media/shopping-cart-outline-svgrepo-com.svg": "/e-commerce-app/static/media/shopping-cart-outline-svgrepo-com.99af1c192589ee4f46db9535fbbceb1d.svg",
+    "index.html": "/e-commerce-app/index.html",
+    "main.e415bd21.css.map": "/e-commerce-app/static/css/main.e415bd21.css.map",
+    "main.f013c9bd.js.map": "/e-commerce-app/static/js/main.f013c9bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e415bd21.css",
+    "static/js/main.f013c9bd.js"
+  ]
+}
